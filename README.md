@@ -4,8 +4,6 @@
 ### Through a Single Click you can 
 **_> Add Task_** <br>
 **_> Remove Task_** <br>
-**_> Pronunciations_** <br>
-**_> Many Other things_** <br>
 
 ### Used Technology :
 _> HTML 5_ <br>
